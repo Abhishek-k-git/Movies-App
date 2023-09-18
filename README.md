@@ -8,6 +8,7 @@
 * [Setup](#Setup)
 * [Deployment](#Deployment)
 * [TMDB_API](#TMDB_API)
+* [App Preview](#App_Preview)
 
 ### Overview
 
@@ -170,4 +171,6 @@ By following these professional steps, your ReactJs app will be successfully dep
 
 To register for an API key, click the [API link](https://www.themoviedb.org/settings/api) from within your account settings page.
 
-> [Click me to view live application from here](https://themovies-app-tmdb.netlify.app/)
+### App_Preview
+
+[Click me to view live application from here](https://themovies-app-tmdb.netlify.app/)
