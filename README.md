@@ -1,6 +1,6 @@
 ## Movies and TV shows App in ReactJs using TMDB Api data
 
-![poster](https://github.com/Abhishek-k-git/Movies-App/blob/main/screenshot/movies-app.png)
+![poster](https://github.com/Abhishek-k-git/Movies-App/blob/main/screenshot/app-layout.png)
 
 ### Table of content
 * [Overview](#Overview)
