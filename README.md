@@ -1,4 +1,4 @@
-## Movies and TV shows App in ReactJs using TMDB Api data
+## Movies and TV shows App in ReactJs using TMDB Api for data
 
 ![poster](https://github.com/Abhishek-k-git/Movies-App/blob/main/screenshot/app-layout.png)
 
